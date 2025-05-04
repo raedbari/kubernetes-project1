@@ -5,6 +5,16 @@
 1. Launch 2 EC2 instances:
    - One as the **master**
    - The other as **node1**
+   - 
+---
+
+## ⚙️ Kubeadm Not Installed?
+
+If you haven’t installed Kubernetes yet using `kubeadm` on the master and worker nodes, follow the installation steps here:
+
+🔗 [Go to the install-k8s repository](https://github.com/raedbari/install-k8s)
+
+---
 
 2. SSH into the master node using **MobaXterm**
 
